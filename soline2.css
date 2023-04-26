@@ -1,0 +1,63 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    background-image: woman-with-lunch-box-walking-in-street-royalty-free-image-1583342860.jpg;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #050f0fef;
+  }
+  
+  
+
+.ex1{
+  background-image:;
+}
+p{
+  text-align: center;
+  
+}
+ .ex1 img{
+  width: 100x;
+  height: 500px;
+  border: 10px solid transparent;
+  padding: 0px;
+  position: inherit;
+  margin: 0px;
+
+
+}
+
+  img{
+    width: 1199px;
+    height: 200px;
+    border: 10px solid transparent;
+    padding:
+}
+
+body{
+  background-color: aqua;
+}
+h3{
+  margin: 0px;
+  padding: 0px;
+}
